@@ -10,7 +10,7 @@ All great stories look as simple as the ugly real world when they happen. It's o
 Read more about it at [MagicType](https://www.magictype.in/portfolio/raigarh-typeface/)
 
 ## The Type Family
-The font family consists of 5 weights; light, regular, medium, bold and black. It features over 690 precisely crafted glyphs. Includes standard and discretionary ligatures, mathematical features, currency symbols, Arrows, ordinals, accents, Oldstyle figures, Lining figures, Tabular figures, Tabular Oldstyle figures, Fractions, alternative glyphs and other OpenType features.
+The typeface features over 690 precisely crafted glyphs. Includes standard and discretionary ligatures, mathematical features, currency symbols, Arrows, ordinals, accents, Oldstyle figures, Lining figures, Tabular figures, Tabular Oldstyle figures, Fractions, alternative glyphs and other OpenType features.
 
 ## Licence
 Raigarh is licensed under the [SIL Open Font License v1.1](http://scripts.sil.org/OFL). To view the copyright and specific terms and conditions please refer to [OFL.txt](https://github.com/magictype/raigarh/blob/master/OFL.txt)
